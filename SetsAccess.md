@@ -25,7 +25,7 @@ Result:
     <img width="150" height="68" alt="image" src="https://github.com/user-attachments/assets/cdced9c1-c3e3-4487-9aaf-1df03cdc8241" />
 
 
-To go on the next page ---> [Add Set]AddSets.md
+To go on the next page ---> [Add Set](AddSets.md)
 
 
 
